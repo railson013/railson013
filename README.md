@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil:
+Boas vindas ao meu perfil
 
 Meu Nome é Railson Sousa
 
